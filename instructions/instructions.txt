@@ -39,4 +39,9 @@ npm run dev
 
 npm run generate
 
+npm install netlify-cli -g
+
+editar el archivo .netlify para poner el id personal...
+
+netlify deploy dist
 

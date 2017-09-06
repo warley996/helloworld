@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        helloworld
+        Hola Mundo!
       </h1>
       <h2 class="subtitle">
-        My first application with vue and nuxt
+        Calacion de Netlify...
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
