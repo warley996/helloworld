@@ -6,3 +6,8 @@ npm-debug.log
 
 # Nuxt build
 .nuxt
+
+# Ignore dist
+dist
+
+\.DS_Store
