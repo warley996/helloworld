@@ -1,0 +1,42 @@
+Create a static site in 15 minutes or less using Vue/Nuxt and Netlify
+
+	This is a quick tutorial to get a generated static website up and running using Vue.js, Nuxt.js & Netlify.
+
+npm install vue-cli -g
+
+vue init nuxt/starter <project-name>
+  # Follow the command line instructions
+  # (most defaults should be fine) so just press enter a few times
+cd <project-name>
+npm install
+
+Sample:
+vue init nuxt/starter helloworld
+cd helloworld
+npm install
+
+git init
+
+git remote add origin https://github.com/warley996/helloworld.git
+					
+					https://github.com/warley996/helloworld.git
+					git@github.com:warley996/helloworld.git
+
+git remote set-url origin git@github.com:warley996/helloworld.git
+git remote set-url origin https://github.com/warley996/helloworld.git
+
+git remote -v
+
+git add .
+
+git commit -m "Initial commit"
+
+git push -u origin master
+
+...
+
+npm run dev
+
+npm run generate
+
+
